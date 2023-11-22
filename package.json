@@ -1,0 +1,7 @@
+{
+  "name": "@lwc-studio/dirheimerb.lwc-lp94mwyd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx lwc-cli@latest serve fq56Ne1djN3IkvkusKnS --open"
+  }
+}
